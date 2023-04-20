@@ -1,0 +1,11 @@
+MVP:
+- Navbar
+- Sidebar
+- Video cards
+
+
+
+Bonus:
+- Tags
+- Hover text & effect
+- Shorts section
